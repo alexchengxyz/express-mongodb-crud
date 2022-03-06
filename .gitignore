@@ -1,0 +1,7 @@
+node_modules/
+web/
+config.js
+package-lock.json
+.eslintrc.*
+.DS_Store
+.env
